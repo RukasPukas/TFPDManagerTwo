@@ -118,9 +118,14 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
    		exitButton.setBackground(Color.LIGHT_GRAY);
    		exitButton.addActionListener(new ActionListener() {
    			public void actionPerformed(ActionEvent e) {
+   				
+   				int result = JOptionPane.showConfirmDialog(null, "Do you want to proceed? Any unsaved data will be lost.", "Confirmation", JOptionPane.YES_NO_OPTION);
+				if (result == JOptionPane.YES_OPTION) {
    				new CentralHub( enteredUserName,  enteredPassword,  adminStatus,  superAdminStatus,  userEmail);
    				dailyLogFrame.dispose();
    				Datepicker.dispose();
+				}
+				
    			}
    		});
    		exitButton.setFont(new Font("Monospaced", Font.BOLD, 24));
