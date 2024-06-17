@@ -1,0 +1,17 @@
+None
+Given-CFD
+Given-EFD
+Given-GCFD
+Given-HFD
+Given-MFD
+Received-CFD
+Received-EFD
+Received-GCFD
+Received-HFD
+Received-MFD
+StationMove-CFD
+StationMove-EFD
+StationMove-GCFD
+StationMove-HFD
+StationMove-MFD
+Other

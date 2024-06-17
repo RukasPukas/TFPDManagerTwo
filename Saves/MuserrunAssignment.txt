@@ -1,0 +1,10 @@
+<html>Run: 1<br>Unit: 2040<br>Address: N/A1<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: 1<br>Mutual Aid: None<br><br>
+*
+<html>Run: 1<br>Unit: 2040<br>Address: N/A1<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: 1<br>Mutual Aid: None<br><br>
+*
+<html>Run: 1<br>Unit: 2042<br>Address: N/A1<br>Disposition: Lift Assist - Billed<br>Destination: Barnes Jewish Hospital<br>Impression: 1<br>Mutual Aid: Received-EFD<br><br>
+*
+<html>Run: 1<br>Unit: 2042<br>Address: N/A1<br>Disposition: Lift Assist - Not Billed<br>Destination: Barnes Jewish Hospital<br>Impression: 1<br>Mutual Aid: None<br><br>
+*
+<html>Run: 1<br>Unit: 2041<br>Address: N/A1<br>Disposition: Lift Assist - Not Billed<br>Destination: Belleville Memorial Hospital<br>Impression: 1<br>Mutual Aid: None<br><br>
+*

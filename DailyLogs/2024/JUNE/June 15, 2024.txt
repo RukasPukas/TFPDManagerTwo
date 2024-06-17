@@ -1,0 +1,69 @@
+Date: June 15, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+Mennel - Kelly Day    Tarr - Vacaction   
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x2
+
+Time Trades:
+Tyon for Crafton
+
+Notes: 
+24 Hour Crews
+
+2041: Mennel  (Picked up open shift), Norbury
+2042: Ocepek (Picked up open shift), Tyon (Trade)
+
+Daily chores completed
+
+Both ambulances washed
+
+Both ambulances out Call #  24-0830 2042 called for extra man power lifting PT
+
+Both ambulances out Call #  24-0830 2042 called for extra manpower 
+
+Mutual aid from Edwardsville call # 24-0881 2042 called for edwardsville engine for manpower due to being closer to their station
+
+Both ambulances out call # 24-0833 and 24-0834 2041 transporting to SLU for CVA when 2042 was called out for a stabbing
+
+**2042 out of service from hitting dear while on call # 24-0834  Chiefs contacted 2040 retrieved from Glen Carbon and put back into service**
+
+
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+2. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+3. <html>Crewmember: AOcepek<br>Unit: 2042<br>Hours Worked: 24<br></html>
+
+4. <html>Crewmember: LTyon<br>Unit: 2042<br>Hours Worked: 24<br></html>
+
+Run Log: 
+1. <html>Run: 24-0829<br>Unit: 2042<br>Address: 55 NB @ 17<br>Disposition: Transported<br>Destination: Anderson<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0830<br>Unit: 2041<br>Address: 360 OLD HOMESTEAD DR<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0832<br>Unit: 2042<br>Address: 7736 EL PINE ESTATE<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: Received-EFD<br><br>
+
+4. <html>Run: 24-0833<br>Unit: 2041<br>Address: 123 W MARKET ST<br>Disposition: Transported<br>Destination: Saint Louis University Hospital<br>Impression: CVA<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0834<br>Unit: 2042<br>Address: 610 WOODLAND HILLS<br>Disposition: Care Transferred<br>Destination: N/A<br>Impression: Stabbing<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-0837<br>Unit: 2041<br>Address: 39 DOROTHY DR 216<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hypotension<br>Mutual Aid: None<br><br>

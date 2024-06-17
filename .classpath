@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="tfpdManagertwo/User/|lib/" kind="src" path="src"/>
+	<classpathentry excluding="Permissions/Admin/|Permissions/SuperAdmin/|Email/" kind="src" path="User"/>
+	<classpathentry kind="src" path="User/Permissions/Admin"/>
+	<classpathentry kind="src" path="User/Permissions/SuperAdmin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="javax.mail.jar"/>
+	<classpathentry kind="lib" path="JPlanner.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
