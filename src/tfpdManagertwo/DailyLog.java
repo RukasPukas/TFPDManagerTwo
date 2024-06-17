@@ -82,9 +82,11 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
     private List<String> crewMemberList;  
     private List<String> hoursWorkedList;  
     String[][] mergedArray;
+    int loadSafetyCheck;
 	
 	DailyLog(String enteredUserName, String enteredPassword, Boolean adminStatus, Boolean superAdminStatus, String userEmail, JFrame hubFrame)
 	{
+		loadSafetyCheck = 0;
 		dailyLogFrame = new JFrame("Daily Log");
 		dailyLogFrame.setSize(1557,880);
 		dailyLogFrame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE); 
@@ -493,9 +495,12 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
 			JButton loadButton = new JButton("Load");
 			loadButton.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
+					
+					if (loadSafetyCheck ==0) {
 					int result = JOptionPane.showConfirmDialog(null, "Do you want to proceed? This will overwrite all your current data.", "Confirmation", JOptionPane.YES_NO_OPTION);
 					if (result == JOptionPane.YES_OPTION) 
 					{
+						loadSafetyCheck=1;
 					
 				//----------------------------------------LOADING OF NOTES--------------------------------------------
 					String Line = "";
@@ -632,6 +637,10 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
 			            return;
 			            
 			        }
+					}
+					else {
+						JOptionPane.showMessageDialog(null, "You have already loaded your previous save.");
+					}
 				}
 			});
 			loadButton.setFont(new Font("Monospaced", Font.BOLD, 24));
