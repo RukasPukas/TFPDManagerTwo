@@ -1,0 +1,69 @@
+Date: June 19, 2024
+
+Shift Leader: AOcepek
+
+Shift: B
+
+Call Offs:
+McClinton Kelly Day, Jamruk Injury
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Norbury for Tyon
+
+Notes: 
+Norbury on trade with Tyon
+
+McClinton on Kelly Day, Jamruk off on injury
+
+Hunsche on 24 hrs OT
+
+Both ambulances out #s 849 & 850
+
+
+Luke, found another bug in the new manager. When the runs screen fills up the scroll bar does not increase to all you to scroll down to see all of the submitted runs.
+
+Crews:
+1. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: AHunsche<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: GCroxton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0849<br>Unit: 2040<br>Address: 17 Wild Horse Ct<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: ABD Pain<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0850<br>Unit: 2041<br>Address: Theresa Dr @ Mary Dr<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0851<br>Unit: 2041<br>Address: 8627 Lebanon Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0852<br>Unit: 2040<br>Address: 30 Arbor Springs<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0853<br>Unit: 2041<br>Address: 818 Industrial Dr<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Alarm<br>Mutual Aid: None<br><br>

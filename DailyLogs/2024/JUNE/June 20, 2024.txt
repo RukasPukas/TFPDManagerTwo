@@ -1,0 +1,63 @@
+Date: June 20, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+Attended drivers obstacle course with FD
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 855<br>Unit: 2041<br>Address: 2020 Formosa Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Traumatic Arrest<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 857<br>Unit: 2040<br>Address: 722 E US Highway 40<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 858<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 854<br>Unit: 2040<br>Address: 8284 W Kirsch Rd<br>Disposition: Transported<br>Destination: Missouri Baptist<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 859<br>Unit: 2040<br>Address: 524 Berkshire Dr<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>

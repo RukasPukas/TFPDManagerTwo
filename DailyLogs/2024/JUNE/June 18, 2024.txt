@@ -1,0 +1,50 @@
+Date: June 18, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Pugh for Tarr
+
+Notes: 
+24 Hour Trucks
+
+2042: Out of dervice
+
+2041: Pugh (Trade), Crafton
+2040: Norbury, Mennel
+
+Daily chores completed
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JPugh<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+No runs made.

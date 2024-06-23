@@ -1,0 +1,52 @@
+Date: June 17, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x2
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+2042 remains OOS due to deer hunting gone wrong. 
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 842<br>Unit: 2040<br>Address: 111 Sarah St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 843<br>Unit: 2041<br>Address: 121 Stevenson Rd<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 844<br>Unit: 2040<br>Address: 8301 Old Mill Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Difficulty breathing<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 845<br>Unit: 2041<br>Address: 12 Forest Knoll Ct<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>

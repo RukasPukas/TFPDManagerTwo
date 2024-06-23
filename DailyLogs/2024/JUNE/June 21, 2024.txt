@@ -1,0 +1,53 @@
+Date: June 21, 2024
+
+Shift Leader: FTarr
+
+Shift: A
+
+Call Offs:
+Mennel kelly day
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+Mennel on kelly day
+
+both ambulances out on call #24-0860
+
+
+dishwasher is not working properly....dishes are either still dirty or they have a sandy feel to them.   we ran the same load multiple times.  
+
+Crews:
+1. <html>Crewmember: FTarr<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: MVonnahmen<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0860<br>Unit: 2040<br>Address: 8747 lower marine rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: hypotension/somnolent<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0861<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: fall/weakness<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0862<br>Unit: 2041<br>Address: E US HWY 40 @ Troy Ofallon Rd<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: brush fire<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0864<br>Unit: 2040<br>Address: N55 @ MM 18<br>Disposition: Refusal<br>Destination: N/A<br>Impression: car vs deer, arm pain<br>Mutual Aid: None<br><br>

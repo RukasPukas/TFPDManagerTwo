@@ -15,3 +15,88 @@ Date: June 15, 2024
 
 6. <html>Run: 24-0837<br>Unit: 2041<br>Address: 39 DOROTHY DR 216<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hypotension<br>Mutual Aid: None<br><br>
 
+
+
+Date: June 16, 2024
+
++Run Log:+
+1. <html>Run: 24-0838<br>Unit: 2041<br>Address: 91 West Lake Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Headache<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0839<br>Unit: 2040<br>Address: 229 Liberty Square Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0840<br>Unit: 2041<br>Address: 201 Stone Briar Drive<br>Disposition: Refusal<br>Destination: Anderson<br>Impression: Ches Pain<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 24-0841<br>Unit: 2040<br>Address: 7438 Clarence CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>
+
+
+
+
+Date: June 17, 2024
+
++Run Log:+
+1. <html>Run: 842<br>Unit: 2040<br>Address: 111 Sarah St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 843<br>Unit: 2041<br>Address: 121 Stevenson Rd<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 844<br>Unit: 2040<br>Address: 8301 Old Mill Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Difficulty breathing<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 845<br>Unit: 2041<br>Address: 12 Forest Knoll Ct<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+
+
+Date: June 18, 2024
+
++Run Log:+
+No runs made.
+
+
+
+Date: June 19, 2024
+
++Run Log:+
+1. <html>Run: 24-0849<br>Unit: 2040<br>Address: 17 Wild Horse Ct<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: ABD Pain<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0850<br>Unit: 2041<br>Address: Theresa Dr @ Mary Dr<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0851<br>Unit: 2041<br>Address: 8627 Lebanon Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0852<br>Unit: 2040<br>Address: 30 Arbor Springs<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0853<br>Unit: 2041<br>Address: 818 Industrial Dr<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Alarm<br>Mutual Aid: None<br><br>
+
+
+
+Date: June 20, 2024
+
++Run Log:+
+1. <html>Run: 855<br>Unit: 2041<br>Address: 2020 Formosa Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Traumatic Arrest<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 857<br>Unit: 2040<br>Address: 722 E US Highway 40<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 858<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 854<br>Unit: 2040<br>Address: 8284 W Kirsch Rd<br>Disposition: Transported<br>Destination: Missouri Baptist<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 859<br>Unit: 2040<br>Address: 524 Berkshire Dr<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+
+Date: June 21, 2024
+
++Run Log:+
+1. <html>Run: 24-0860<br>Unit: 2040<br>Address: 8747 lower marine rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: hypotension/somnolent<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0861<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: fall/weakness<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0862<br>Unit: 2041<br>Address: E US HWY 40 @ Troy Ofallon Rd<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: brush fire<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0864<br>Unit: 2040<br>Address: N55 @ MM 18<br>Disposition: Refusal<br>Destination: N/A<br>Impression: car vs deer, arm pain<br>Mutual Aid: None<br><br>
+

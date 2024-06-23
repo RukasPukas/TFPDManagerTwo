@@ -1,8 +1,8 @@
-<html>Run: 24-0838<br>Unit: 2041<br>Address: 91 West Lake Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Headache<br>Mutual Aid: None<br><br>
+<html>Run: 24-0865<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
 *
-<html>Run: 24-0839<br>Unit: 2040<br>Address: 229 Liberty Square Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+<html>Run: 24-0866<br>Unit: 2041<br>Address: Troy Ofallon @ East Mill Creek Road<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: MVA Unfounded<br>Mutual Aid: None<br><br>
 *
-<html>Run: 24-0840<br>Unit: 2041<br>Address: 201 Stone Briar Drive<br>Disposition: Refusal<br>Destination: Anderson<br>Impression: Ches Pain<br>Mutual Aid: None<br><br>
+<html>Run: 24-0867<br>Unit: 2041<br>Address: 1482 Guilford Place<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sepsis<br>Mutual Aid: None<br><br>
 *
-<html>Run: 24-0841<br>Unit: 2040<br>Address: 7438 Clarence CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>
+<html>Run: 24-0868<br>Unit: 2040<br>Address: 229 Michael Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Anxiety<br>Mutual Aid: None<br><br>
 *

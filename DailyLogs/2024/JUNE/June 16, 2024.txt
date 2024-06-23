@@ -1,0 +1,69 @@
+Date: June 16, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C Jamruk Injury
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Made some updates to TFPD Manager 2.
+
+I bought a computer mic for the front office, this is for anyone to use.
+
+I brought in my old battery powered vaccum that still works great. It is in the day room along with a battery and the charger.
+
+2042 needs to be scheduled for repairs. Jeremy if you would get with chief Davis over this.
+
+Crews:
+1. <html>Crewmember: ATreat<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+3. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+4. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0838<br>Unit: 2041<br>Address: 91 West Lake Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Headache<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0839<br>Unit: 2040<br>Address: 229 Liberty Square Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0840<br>Unit: 2041<br>Address: 201 Stone Briar Drive<br>Disposition: Refusal<br>Destination: Anderson<br>Impression: Ches Pain<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 24-0841<br>Unit: 2040<br>Address: 7438 Clarence CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>

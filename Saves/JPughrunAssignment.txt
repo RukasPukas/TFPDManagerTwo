@@ -1,0 +1,11 @@
+<html>Run: 855<br>Unit: 2041<br>Address: 2020 Formosa Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Traumatic Arrest<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 857<br>Unit: 2040<br>Address: 722 E US Highway 40<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 858<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 854<br>Unit: 2040<br>Address: 8284 W Kirsch Rd<br>Disposition: Transported<br>Destination: Missouri Baptist<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+*
