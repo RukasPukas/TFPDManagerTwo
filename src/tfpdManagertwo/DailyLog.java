@@ -368,9 +368,9 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
 			runsList.setLayoutOrientation(JList.HORIZONTAL_WRAP);
 			runsList.setVisibleRowCount(-1);
 			runsList.setBackground(Color.BLACK);
-			runsList.setPreferredSize(new Dimension(300, 464));
-			runsList.setBounds(1159, 68, 300, 464);
-			panel.add(runsList);
+            runsList.setPreferredSize(new Dimension(300, 4640)); // 10 times the normal height
+            runsList.setBounds(1159, 68, 300, 464);
+            panel.add(runsList);
 		
 			JScrollPane listScroller = new JScrollPane(runsList);
 			listScroller.setBounds(1159, 68, 300, 464); 
