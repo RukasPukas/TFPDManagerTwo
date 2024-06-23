@@ -35,10 +35,12 @@ public class AddRun {
 	private JTextField runNumberTextField;
 	private JTextField impressionTextField;
 	JComboBox mutualAidComboBox,destinationComboBox;
+	int runCounter;
 	
 	
 	AddRun(String enteredUserName, String enteredPassword, Boolean adminStatus, Boolean superAdminStatus, String userEmail, JFrame dailyLogFrame, DefaultListModel runsListModel)
 	{
+		runCounter = 0;
 		String blankSpace = "";
 		String truckPath = "vehicles/vehicleroster.txt";
 		String maPath = "MA/ma.txt";
@@ -208,6 +210,7 @@ public class AddRun {
 				else
 				{
 					addRunsListModel.remove(selectedIndex);
+					runCounter = runCounter-1;
 				}
 				
 			}
@@ -265,6 +268,7 @@ public class AddRun {
 				dispositionFinal  + "<br>Destination: " + destinationFinal+  "<br>Impression: "+ impressionFinal + "<br>Mutual Aid: " + mutualAidFinal +"<br><br>";
 				
 				addRunsListModel.addElement(finalString);
+				runCounter = runCounter+1;
 				
 				runNumberTextField.setText("");
 				truckComboBox.setSelectedIndex(0);
@@ -333,6 +337,8 @@ public class AddRun {
 		submitButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
+				if (runCounter>0) {
+				
 		        int size = addRunsListModel.getSize();
 		        for (int i = 0; i < size; i++) {
 		            Object element = addRunsListModel.getElementAt(i);
@@ -341,7 +347,10 @@ public class AddRun {
 		        addRunsListModel.removeAllElements();
 		        dailyLogFrame.setEnabled(true);
 		        addRunFrame.dispose();
-				
+				}
+				else {
+					JOptionPane.showMessageDialog(null, "You have not entered any runs.");
+				}
 			}
 		});
 		submitButton.setFont(new Font("Monospaced", Font.BOLD, 15));
