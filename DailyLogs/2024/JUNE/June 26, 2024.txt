@@ -1,0 +1,55 @@
+Date: June 26, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+Croxton off the front half
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+Croxton called off for front half. J. Lair came in on OT.
+
+2041 powerload system broke during lifting of patient. It is still able to be used manually. 
+
+
+
+Crews:
+1. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+3. <html>Crewmember: GCroxton<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+4. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+5. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 884<br>Unit: 2040<br>Address: 212 Redbird St<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Psych<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 885<br>Unit: 2041<br>Address: 320 Quail Lake Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Toe Injury<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 886<br>Unit: 2040<br>Address: 511 Lanahan Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Vomiting<br>Mutual Aid: None<br><br>

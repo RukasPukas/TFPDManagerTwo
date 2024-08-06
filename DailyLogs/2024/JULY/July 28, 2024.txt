@@ -1,0 +1,74 @@
+Date: July 28, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Norbury -> Ocepek
+
+Notes: 
+J.Lair 24 hours OT
+
+Crews:
+1. <html>Crewmember: JLair<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: LTyon<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-1031<br>Unit: 2040<br>Address: 2333 Tramore Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall no injury<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-1032<br>Unit: 2041<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Abdominal pain<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-1033<br>Unit: 2040<br>Address: 49 Ashbrooke<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall w/injury<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-1034<br>Unit: 2040<br>Address: 601 Lower Marine Road Apt 4a<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift assist<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-1035<br>Unit: 2041<br>Address: West Main @ 159 Maryville<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Intoxication<br>Mutual Aid: Given-MFD<br><br>
+
+
+6. <html>Run: 24-1036<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: HTN<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-1037<br>Unit: 2041<br>Address: 55/70@ 270<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Vehicle Fire<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 24-1038<br>Unit: 2041<br>Address: 136 Oakshire Drive East<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+9. <html>Run: 24-1039<br>Unit: 2041<br>Address: 601 Lower Marine Road Apt 4a<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

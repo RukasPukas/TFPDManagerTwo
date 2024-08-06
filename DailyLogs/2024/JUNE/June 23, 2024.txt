@@ -1,0 +1,42 @@
+Date: June 23, 2024
+
+Shift Leader: JLair
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Tarr for Pugh
+
+Notes: 
+N/A
+
+Crews:
+1. <html>Crewmember: FTarr<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 872<br>Unit: 2041<br>Address: 39 Dorothy Dr<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: lift assist<br>Mutual Aid: None<br><br>

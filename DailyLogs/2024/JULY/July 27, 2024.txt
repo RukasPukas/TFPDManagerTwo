@@ -1,0 +1,53 @@
+Date: July 27, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+Tarr Kelly Day
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Tyon for Norbury
+
+Notes: 
+24 Hour Trucks
+
+2040: Mennel, McClinton ( Picked Up)
+2041: Crafton, Tyon (Trade)
+
+Daily chores completed
+
+dispatched to 601 Lower Marine in morning and evening for assistance getting into bed. 
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: LTyon<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-1028<br>Unit: 2041<br>Address: 202 MEADOW DR<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1029<br>Unit: 2040<br>Address: 601 LOWER MARINE RD 4A<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1030<br>Unit: 2041<br>Address: 601 LOWER MARINE RD 4A<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

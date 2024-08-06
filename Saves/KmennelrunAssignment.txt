@@ -1,0 +1,6 @@
+<html>Run: 24-1089<br>Unit: 2040<br>Address: 526 CHICKADEE ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+*
+<html>Run: 24-1091<br>Unit: 2041<br>Address: 123 N TIMBER TER<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+*
+<html>Run: 24-1092<br>Unit: 2040<br>Address: 1027 TROY OFALLON RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: Received-MFD<br><br>
+*

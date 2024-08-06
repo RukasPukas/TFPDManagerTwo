@@ -1,0 +1,58 @@
+Date: August 4, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+F. Tarr on trade with J. Lair
+
+Notes: 
+Daily chores completed.
+
+F. Tarr on time trade with J. Lair
+
+Refused mutual aid call to Godfrey. No run number was assigned.
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: FTarr<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: AHunsche<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 1082<br>Unit: 2040<br>Address: 642 Troy Ofallon Rd<br>Disposition: No Patient Found<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 1083<br>Unit: 2040<br>Address: 717 Sundance Tr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Behavioral<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1084<br>Unit: 2041<br>Address: 522 Lone Robin St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1085<br>Unit: 2040<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 1086<br>Unit: 2041<br>Address: 39 Dorothy Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hemorrhage<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 1087<br>Unit: 2040<br>Address: 407 Edwardsville Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Shortness of breath<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 1088<br>Unit: 2041<br>Address: 426 Parkside Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hemorrhage<br>Mutual Aid: None<br><br>

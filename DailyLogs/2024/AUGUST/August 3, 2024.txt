@@ -1,0 +1,59 @@
+Date: August 3, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Check with Anna and Kevin over hours worked. There is some sort of time trade that was done for today. -Kelly
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: ATreat<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+
+4. <html>Crewmember: KMennel<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+
+5. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-1080<br>Unit: 2040<br>Address: 8829 Wendell Creek Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Fire Stand by<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-1081<br>Unit: 2040<br>Address: 601 Lower Marine Road<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

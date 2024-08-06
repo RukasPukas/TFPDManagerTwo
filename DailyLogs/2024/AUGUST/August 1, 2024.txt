@@ -1,0 +1,50 @@
+Date: August 1, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x2
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 1068<br>Unit: 2040<br>Address: 407 Meadow Dr  Apt 4<br>Disposition: Care Transferred<br>Destination: Saint Louis University Hospital<br>Impression: Traumatic Injury<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 1069<br>Unit: 2041<br>Address: SB I-55 @ MM17<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1070<br>Unit: 2040<br>Address: 811 Lions Dr<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1071<br>Unit: 2041<br>Address: Troy Rd @ Goshen Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Heat related<br>Mutual Aid: None<br><br>

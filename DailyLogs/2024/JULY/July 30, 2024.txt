@@ -1,0 +1,111 @@
+Date: July 30, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x5
+
+Time Trades:
+Hunsche for Kevin 0730-1200
+
+Notes: 
+24 Hour Trucks
+
+2040: Norbury, Hunsche (Trade 0730-1200), Mennel 1200-0730
+
+2041: Crafton, Tarr
+
+2042 picked up from Truck Centers
+
+Expired medications checked and replaced both trucks
+
+Took 2042 back to Truck Centers for qoute to fix rear door
+
+Attempted to get 2042 ready for inspection but had to cancel due to electrical issues with 2042
+
+Replacement IO needles ordered
+
+Dinner as crew
+
+Both ambulances out Call # 1048 and 1050
+Both ambulances transported to Anderson
+
+Both ambulances out call # 1050 and 1051 2041 obtained refusal while 2040 transported to Anderson
+
+Both ambulances out call # 1052 and 1053 2041 transported psych while 2040 was on lift assist. While transporting 2041 witnessed house on fire and called for a fire response. 
+
+Both ambulances out Call # 1054 and 1052 2040 at fire call while 2041 transported to Anderson
+
+Held additional Psych call at PD until 2041 could clear to relieve 2040 at fire scene so 2040 could take psych call
+
+
+
+
+
+
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 4.5<br></html>
+
+
+
+3. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 19.5<br></html>
+
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+5. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-1047<br>Unit: 2040<br>Address: 39 DOROTHY DR 115<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-1048<br>Unit: 2041<br>Address: 311 COLLINSVILLE RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-1050<br>Unit: 2040<br>Address: 926 LONGBRANCH RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Domestic violence<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 24-1051<br>Unit: 2040<br>Address: 502 WREN HILL ST<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Hand Injury<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-1052<br>Unit: 2041<br>Address: 502 WREN HILL ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Psych<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 24-1054<br>Unit: 2040<br>Address: 123 HENDERSON ST<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+
+7. <html>Run: 24-1055<br>Unit: 2040<br>Address: 116 E MARKET ST<br>Disposition: Transported<br>Destination: Gateway Regional Hospital<br>Impression: Psych<br>Mutual Aid: None<br><br>
+
+
+8. <html>Run: 24-1058<br>Unit: 2041<br>Address: 114 HENDERSON ST<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+9. <html>Run: 24-1057<br>Unit: 2040<br>Address: E MILL CREEK RD @ BLACKJACK RD<br>Disposition: No Patient Found<br>Destination: N/A<br>Impression: Car Accident No PT Found<br>Mutual Aid: None<br><br>

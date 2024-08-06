@@ -1,0 +1,53 @@
+Date: July 21, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Crews
+
+2040: Mennel, Norbury
+2041: Tarr, Crafton
+
+Daily chores completed
+
+Sprayed station for bugs. Several spyders found in bathrooms
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0991<br>Unit: 2040<br>Address: 12525 SPORTSMAN RD<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: Canceled on scene<br>Mutual Aid: Given-HFD<br><br>
+
+2. <html>Run: 24-0992<br>Unit: 2040<br>Address: 601 LOWER MARINE RD 4A<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift assist<br>Mutual Aid: None<br><br>

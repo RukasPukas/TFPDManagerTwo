@@ -1,0 +1,60 @@
+Date: July 3, 2024
+
+Shift Leader: KCrafton
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+McClinton for Mennel/ Barr for Tarr
+
+Notes: 
+
+Large Ice Chest in the back quit some time in the last few days. All the items in were ruined. It was drained and unplugged.
+McClinton, Crafton, Barr attended the ceu training with 2002
+
+Crews:
+1. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0915<br>Unit: 2041<br>Address: 8160 Maple Grove<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0916<br>Unit: 2040<br>Address: 2129 Suncrest<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: CO Alarm<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0917<br>Unit: 2040<br>Address: 229 Liberty Square Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Assist Invalid<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 24-0918<br>Unit: 2041<br>Address: 116 E Market<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Foot Injurie<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-0919<br>Unit: 2040<br>Address: 225 E Charter St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: foot pain<br>Mutual Aid: None<br><br>

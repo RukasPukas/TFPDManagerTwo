@@ -1,0 +1,52 @@
+Date: July 16, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+F.Tarr (12 hours OT). A.Hunsche (12 hours OT)
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+3. <html>Crewmember: FTarr<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+4. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+5. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0970<br>Unit: 2040<br>Address: 202 Meadow Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Kidney Stone<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0971<br>Unit: 2041<br>Address: 202 Meadow Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Tree branch on power line<br>Mutual Aid: None<br><br>

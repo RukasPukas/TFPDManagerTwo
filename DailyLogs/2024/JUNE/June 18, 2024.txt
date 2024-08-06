@@ -23,15 +23,7 @@ Time Trades:
 Pugh for Tarr
 
 Notes: 
-24 Hour Trucks
-
-2042: Out of dervice
-
-2041: Pugh (Trade), Crafton
-2040: Norbury, Mennel
-
-Daily chores completed
-
+24 hHour Trucks 2042: Out of service 2041: Pugh (Trade), Crafton 2040: Norbury, Mennel Daily chores completed
 
 Crews:
 1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
@@ -47,4 +39,8 @@ Crews:
 
 
 Run Log: 
-No runs made.
+1. <html>Run: 24-0846<br>Unit: 2040<br>Address: 301 Montgomery Street<br>Disposition: Transported<br>Destination: Barnes Jewish Hospital<br>Impression: CVA<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0847<br>Unit: 2041<br>Address: 960 Wagon Trail CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0848<br>Unit: 2040<br>Address: 601 East US HWY 40<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Standby<br>Mutual Aid: None<br><br>

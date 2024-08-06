@@ -1,0 +1,72 @@
+Date: July 15, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Trucks
+
+2040: Mennel, Norbury
+2041: Tarr, Crafton
+2042: Out of Service
+
+Daily chores completed
+
+Updated website
+
+Insurance adjuster looked at 2042
+
+2042  battery was dead. Placed on charger
+
+Crews worked on CBT's
+
+Filled open shift 7/17
+
+
+
+
+
+
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0968<br>Unit: 2040<br>Address: N/A270 MM13
+Madison County<br>Disposition: No Patient Found<br>Destination: N/A<br>Impression: Car Fire<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0969<br>Unit: 2040<br>Address: 7954 E MICK RD<br>Disposition: No Patient Found<br>Destination: N/A<br>Impression: CO Alarm<br>Mutual Aid: None<br><br>

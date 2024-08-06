@@ -1,0 +1,62 @@
+Date: June 28, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+FTarr -> LTyon
+
+Notes: 
+Tyon 24 hours OT.
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0893<br>Unit: 2040<br>Address: 2333 Tramore Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall No Injury<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0894<br>Unit: 2041<br>Address: 2 Parklane Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hyperglycemic<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0895<br>Unit: 2040<br>Address: 7458 Clarence CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: ALOC<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-0896<br>Unit: 2041<br>Address: 4 Starway Lane<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>

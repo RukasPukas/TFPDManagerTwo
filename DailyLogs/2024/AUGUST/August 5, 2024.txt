@@ -1,0 +1,90 @@
+Date: August 5, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x2
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Crews
+
+2040: Mennel, Norbury
+2041: Tarr, Crafton
+
+Daily chores completed
+
+Active Threat bags gone through and organized
+
+Extra charts and resources placed in folders on both trucks
+
+Both trucks out Call # 24-1091 extra crew needed for critical PT
+
+Mutual Aid called for 24-1092 for lift assist while both trucks on call # 24-1091 2040 returned to service met Maryville on scene and transported the PT
+
+Fentynol in 2040 swapped out due to missing cap
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+5. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+6. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+7. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+8. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-1089<br>Unit: 2040<br>Address: 526 CHICKADEE ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1091<br>Unit: 2041<br>Address: 123 N TIMBER TER<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1092<br>Unit: 2040<br>Address: 1027 TROY OFALLON RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: Received-MFD<br><br>
+
+4. <html>Run: 24-1089<br>Unit: 2040<br>Address: 526 CHICKADEE ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-1091<br>Unit: 2041<br>Address: 123 N TIMBER TER<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 24-1092<br>Unit: 2040<br>Address: 1027 TROY OFALLON RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: Received-MFD<br><br>
+
+
+7. <html>Run: 24-1093<br>Unit: 2041<br>Address: 5 DOUG DR<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Allergic Reaction<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 24-1094<br>Unit: 2040<br>Address: 39 DOROTHY DR 111<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>

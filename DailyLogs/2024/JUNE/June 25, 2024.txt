@@ -1,0 +1,73 @@
+Date: June 25, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk Injury
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+F.Tarr -> Ltyon
+
+Notes: 
+2040 developed a coolant leak and is being sent down to Weber. 
+
+Tyon 24 hours OT.
+
+F.Tarr attended probationary training. 
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0877<br>Unit: 2040<br>Address: 2457 Kinder Place<br>Disposition: Transported<br>Destination: Anderson<br>Impression: CVA<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0878<br>Unit: 2041<br>Address: 933 Carla Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Psych<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0879<br>Unit: 2040<br>Address: 7458 Clarence CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 24-0880<br>Unit: 2041<br>Address: 9070 State RT 162<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-0881<br>Unit: 2040<br>Address: 39 Dorothy Drive Apt 119<br>Disposition: Transported<br>Destination: Missouri Baptist<br>Impression: Fall w/Injury<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 24-0882<br>Unit: 2041<br>Address: 113 Weston<br>Disposition: Transported<br>Destination: Saint Louis University Hospital<br>Impression: Eye injury<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-0883<br>Unit: 2040<br>Address: 308 Redbird Street<br>Disposition: Transported<br>Destination: Belleville Memorial Hospital<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>

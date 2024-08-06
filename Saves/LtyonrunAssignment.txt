@@ -1,8 +1,5 @@
-<html>Run: 24-0865<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+<html>Run: 24-1080<br>Unit: 2040<br>Address: 8829 Wendell Creek Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Fire Stand by<br>Mutual Aid: None<br><br>
+
 *
-<html>Run: 24-0866<br>Unit: 2041<br>Address: Troy Ofallon @ East Mill Creek Road<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: MVA Unfounded<br>Mutual Aid: None<br><br>
-*
-<html>Run: 24-0867<br>Unit: 2041<br>Address: 1482 Guilford Place<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sepsis<br>Mutual Aid: None<br><br>
-*
-<html>Run: 24-0868<br>Unit: 2040<br>Address: 229 Michael Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Anxiety<br>Mutual Aid: None<br><br>
+<html>Run: 24-1081<br>Unit: 2040<br>Address: 601 Lower Marine Road<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
 *

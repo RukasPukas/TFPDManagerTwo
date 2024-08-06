@@ -1,0 +1,62 @@
+Date: June 30, 2024
+
+Shift Leader: KCrafton
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Tyon for Tarr, Mclinton for Mennel
+
+Notes: 
+Refrigerator Cleaned out
+Station chores done
+
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0903<br>Unit: 2040<br>Address: 8468 Country Ln<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Constipation<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0904<br>Unit: 2041<br>Address: 39 Dorothy Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Rectal Bleeding<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0905<br>Unit: 2040<br>Address: 1924 SRA Bradley Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0906<br>Unit: 2041<br>Address: 819 Edwardsville Rd (T/A)<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0907<br>Unit: 2040<br>Address: 111 Sarah St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Stroke<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-0908<br>Unit: 2041<br>Address: 709 Gawain Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Possible Choking<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-0909<br>Unit: 2040<br>Address: 121 Weston St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall / ALOC<br>Mutual Aid: None<br><br>

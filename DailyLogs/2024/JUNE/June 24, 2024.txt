@@ -1,0 +1,88 @@
+Date: June 24, 2024
+
+Shift Leader: KCrafton
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Tyon for Tarr, Barr for Mennel
+
+Notes: 
+Crafton, Ocepek, Hunsche, Tarr, Barr, Norbury all fited for new gear this morning by Sentinal. McClinton will be fitted on 6/25.
+
+Station chores done
+
+Dinner as a crew
+
+Back to back mutual aid calls to Maryville
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+
+
+2. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+
+
+3. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+
+
+4. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0873<br>Unit: 2040<br>Address: 108 Hassinger St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+
+
+
+
+2. <html>Run: 24-0874<br>Unit: 2041<br>Address: 2701 Maryville Rd (Loyalty Inn)<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Anxiety Attack<br>Mutual Aid: Given-MFD<br><br>
+
+
+
+
+3. <html>Run: 24-0875<br>Unit: 2040<br>Address: 6 Oakwood<br>Disposition: Transported<br>Destination: Anderson<br>Impression: psych<br>Mutual Aid: Given-MFD<br><br>
+
+
+
+4. <html>Run: 24-0876<br>Unit: 2041<br>Address: 108 Hassinger<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Siezure<br>Mutual Aid: None<br><br>

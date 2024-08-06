@@ -1,8 +1,9 @@
-<html>Run: 24-0860<br>Unit: 2040<br>Address: 8747 lower marine rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: hypotension/somnolent<br>Mutual Aid: None<br><br>
+<html>Run: 24-0943<br>Unit: 2040<br>Address: 619 Edwardsville rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: syncope<br>Mutual Aid: None<br><br>
+
+
 *
-<html>Run: 24-0861<br>Unit: 2041<br>Address: 524 Berkshire Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: fall/weakness<br>Mutual Aid: None<br><br>
+<html>Run: 24-0944<br>Unit: 2041<br>Address: 512 Red Bud Ln<br>Disposition: Transported<br>Destination: N/A<br>Impression: seizure<br>Mutual Aid: None<br><br>
+
 *
-<html>Run: 24-0862<br>Unit: 2041<br>Address: E US HWY 40 @ Troy Ofallon Rd<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: brush fire<br>Mutual Aid: None<br><br>
-*
-<html>Run: 24-0864<br>Unit: 2040<br>Address: N55 @ MM 18<br>Disposition: Refusal<br>Destination: N/A<br>Impression: car vs deer, arm pain<br>Mutual Aid: None<br><br>
+<html>Run: 24-0945<br>Unit: 2040<br>Address: 514 bargraves<br>Disposition: Refusal<br>Destination: N/A<br>Impression: seizure<br>Mutual Aid: None<br><br>
 *

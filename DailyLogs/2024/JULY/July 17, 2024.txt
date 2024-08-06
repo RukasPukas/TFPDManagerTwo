@@ -1,0 +1,65 @@
+Date: July 17, 2024
+
+Shift Leader: LTyon
+
+Shift: C
+
+Call Offs:
+Pugh Kelly day, Croxton call off
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Ltyon -> J.Lair
+
+Notes: 
+Croxton call off.
+
+
+
+K.Mennel OT (1930-0730)
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: AHunsche<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: JMiller<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+5. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0972<br>Unit: 2041<br>Address: 910 Edwardsville Road<br>Disposition: Cancelled Prior To Scene<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0973<br>Unit: 2041<br>Address: 70 MM 16 WB<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Semi fire<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 24-0974<br>Unit: 2041<br>Address: 420 Eagles Way Apt B<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Injury<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0975<br>Unit: 2040<br>Address: 204 Hazel Street<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>

@@ -1,0 +1,54 @@
+Date: July 19, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+K.Crafton (12 hours OT). C Norbury 24 hours (OT). Sink in shower room fixed. Attempted to work on dish washer. Contact attempted with new potential PT new hire. Contact made with EMT student. Dish washer has had all of the components cleaned out and de-calcified. It seems to be cleaning effectively now. Shower room sink has been replaced and no longer leaks. 
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+5. <html>Crewmember: ATreat<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0979<br>Unit: 2040<br>Address: 522 Mockingbird Street Apt B<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hip FX<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0980<br>Unit: 2041<br>Address: 306 Ash Street Apt A<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Injury<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0981<br>Unit: 2040<br>Address: 601 Lower Marine Road Apt 4a<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Lift assistance<br>Mutual Aid: None<br><br>

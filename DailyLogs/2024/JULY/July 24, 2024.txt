@@ -1,0 +1,59 @@
+Date: July 24, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x3
+
+Time Trades:
+N/A
+
+Notes: 
+N/A
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: GCroxton<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+3. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+5. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-1006<br>Unit: 2040<br>Address: 9 Willett Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dizziness<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1007<br>Unit: 2041<br>Address: 70 East Bound @ 55<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: MVA<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1008<br>Unit: 2040<br>Address: 104 Industrial CT<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Dyspnea<br>Mutual Aid: Given-HFD<br><br>
+
+4. <html>Run: 24-1009<br>Unit: 2041<br>Address: 39 Dorothy Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-1010<br>Unit: 2040<br>Address: 308 Redbird Street Apt A<br>Disposition: Public Standby<br>Destination: Anderson<br>Impression: Fire Standby with x1 Transport<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-1011<br>Unit: 2041<br>Address: 601 Lower Marine Road<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Assist invalid<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-1012<br>Unit: 2040<br>Address: 525 Gillham Street Apt A<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Gall bladder complications<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 24-1013<br>Unit: 2041<br>Address: 8901 Wendell Creek Drive<br>Disposition: Transported<br>Destination: Cardinal Glennon<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>

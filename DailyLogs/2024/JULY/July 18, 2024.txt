@@ -1,0 +1,60 @@
+Date: July 18, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Crews
+
+2040: Mennel, Norbury
+2041: Hunsche 0730-1100 (Holding over while Crafton in ACLS) Crafton 1100-0730 (ACLS in morning), Tarr
+
+Attended PR event  at St. Pauls
+
+2041 attended fire training
+ 
+
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: AHunsche<br>Unit: 2041<br>Hours Worked: 3.5<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0976<br>Unit: 2040<br>Address: 204 LIBERTY SQUARE DR 29<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0977<br>Unit: 2041<br>Address: 364 ORCHARD CT<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: Medical Alert Accidental<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0978<br>Unit: 2041<br>Address: RIGGIN RD @ BOUSE RD<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Assist Fire at MVC no injuries<br>Mutual Aid: None<br><br>

@@ -1,0 +1,93 @@
+
+July 1, 2024
+Ltyon: Start:0730 End:0730
+
+July 2, 2024
+KMennel: Start:0730 End:1000
+
+July 2, 2024
+LTyon: Start:0730 End:0830
+
+July 3, 2024
+Ltyon: Start:0730 End:0730
+
+July 6, 2024
+Ltyon: Start:0730 End:0730
+
+July 6, 2024
+AHunsche: Start:0730 End:0730
+
+July 8, 2024
+AOcepek: Start:0730 End:0730
+
+July 9, 2024
+AHunsche: Start:0730 End:1930
+
+July 9, 2024
+TBarr: Start:1930 End:0730
+
+July 9, 2024
+JLair: Start:1930 End:0730
+
+July 10, 2024
+KCrafton: Start:0730 End:1930
+
+July 10, 2024
+JLair: Start:0730 End:0730
+
+July 10, 2024
+FTarr: Start:1930 End:0730
+
+July 13, 2024
+KCrafton: Start:0730 End:1930
+
+July 13, 2024
+LTyon: Start:1930 End:0730
+
+July 16, 2024
+Ltyon: Start:1930 End:0730
+
+July 17, 2024
+AHunsche: Start:0730 End:1930
+
+July 18, 2024
+KMennel: Start:1930 End:0790
+
+July 20, 2024
+LTyon: Start:0730 End:1930
+
+July 20, 2024
+KCrafton: Start:1930 End:0730
+
+July 22, 2024
+KCrafton: Start:0730 End:1930
+
+July 22, 2024
+KCrafton: Start:1930 End:0730
+
+July 25, 2024
+TBarr: Start:0730 End:0730
+
+July 24, 2024
+AHunsche: Start:1930 End:0730
+
+July 27, 2024
+KMcClinton: Start:0730 End:0730
+
+July 26, 2024
+Kmennel: Start:0830 End:1000
+
+July 25, 2024
+Kmennel: Start:0830 End:1000
+
+July 24, 2024
+Kmennel: Start:0730 End:1000
+
+July 28, 2024
+JLair: Start:0730 End:0730
+
+July 29, 2024
+CNorbury: Start:0730 End:1200
+
+July 29, 2024
+FTarr: Start:1200 End:1400

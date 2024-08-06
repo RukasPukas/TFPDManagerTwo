@@ -1,0 +1,58 @@
+Date: July 26, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+STARS training completed.
+
+24-1022 was unfounded brush fire
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 1020<br>Unit: 2040<br>Address: 219 Ashford Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 1021<br>Unit: 2041<br>Address: 108 W US Hwy 40<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Shortness of breath<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1023<br>Unit: 2040<br>Address: 530 Gillham St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hypoglycemia<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1024<br>Unit: 2041<br>Address: Edwardsville Rd @ Formosa Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 1025<br>Unit: 2040<br>Address: Bouse Rd @ Old Troy Rd<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Vehicle Fire<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 1026<br>Unit: 2040<br>Address: 34 Meadowbrooke<br>Disposition: Transported<br>Destination: Saint Louis Children's Hospital<br>Impression: Trauma<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 1027<br>Unit: 2041<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

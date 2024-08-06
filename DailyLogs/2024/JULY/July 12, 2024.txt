@@ -1,0 +1,53 @@
+Date: July 12, 2024
+
+Shift Leader: LTyon
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Barr -> Mennel, Tyon -> Norburry
+
+Notes: 
+Repaired wheel fender on 2040.
+
+Contacted potential new PT employee over employment requirements.
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: TBarr<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+5. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0969<br>Unit: 2041<br>Address: 320 Old Homestead Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Smoke in residence<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0955<br>Unit: 2040<br>Address: 7308 West Kirsch Road<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Struck propane line<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0956<br>Unit: 2041<br>Address: 513 Lanahan Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Bradycardia<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0958<br>Unit: 2040<br>Address: 108 James Drive<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>

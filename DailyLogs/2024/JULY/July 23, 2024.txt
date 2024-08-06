@@ -1,0 +1,58 @@
+Date: July 23, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 998<br>Unit: 2040<br>Address: 209 S Main St<br>Disposition: Cancelled Prior To Scene<br>Destination: N/A<br>Impression: Fire Alarm<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 999<br>Unit: 2040<br>Address: 1924 SRA Bradley R Smith Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1000<br>Unit: 2041<br>Address: 303 S Main St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Confusion<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1001<br>Unit: 2040<br>Address: 1440 Spring Valley Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 1002<br>Unit: 2041<br>Address: 2017 Fox Valley Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Abdominal Pain<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 1003<br>Unit: 2040<br>Address: 116 W Market St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 1004<br>Unit: 2041<br>Address: 530 Gillham St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Overdose<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 1005<br>Unit: 2040<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

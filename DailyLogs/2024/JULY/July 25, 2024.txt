@@ -1,0 +1,70 @@
+Date: July 25, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x3
+
+Time Trades:
+N/A
+
+Notes: 
+Ty Barr 24 hours OT
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-1014<br>Unit: 2041<br>Address: 401 East US HWY 40<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-1015<br>Unit: 2040<br>Address: I70 @ I55<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVA x3 Refusal<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-1016<br>Unit: 2041<br>Address: 7458 Clarence Ct<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-1017<br>Unit: 2040<br>Address: 911 Wheatridge Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Afib complications<br>Mutual Aid: None<br><br>
+
+
+
+5. <html>Run: 24-1018<br>Unit: 2041<br>Address: 376 Orchard CT<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Overdose<br>Mutual Aid: None<br><br>
+
+
+
+6. <html>Run: 24-1019<br>Unit: 2040<br>Address: 601 Lower Marine Road APT 4a<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Assist invalid<br>Mutual Aid: None<br><br>

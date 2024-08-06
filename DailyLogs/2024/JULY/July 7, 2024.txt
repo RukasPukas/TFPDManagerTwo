@@ -1,0 +1,72 @@
+Date: July 7, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+G. Croxton called off for 8th July 2024
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+4. <html>Crewmember: ATreat<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0933<br>Unit: 2040<br>Address: 404 Bargraves Blvd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Leg swelling<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0934<br>Unit: 2041<br>Address: 511 Lanahan Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Vomiting<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0935<br>Unit: 2040<br>Address: 8670 Aidan Way<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: CO Alarm<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-0936<br>Unit: 2040<br>Address: 914 Edwardsville Road<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Anxiety<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-0938<br>Unit: 2041<br>Address: 81 Lions Drive<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 24-0939<br>Unit: 2040<br>Address: 103 McDonald Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SI<br>Mutual Aid: None<br><br>

@@ -1,0 +1,58 @@
+Date: July 2, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+F. Tarr in for T. Barr
+
+Notes: 
+Daily chores completed.
+
+Evaluations completed.
+
+Airway training attended.
+
+Maryville ambulance sent back due to MFD needing it back. Hamel sent 2741 as a loaner for now. 
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 912<br>Unit: 2040<br>Address: 904 Edwardsville Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVC with no injuries<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 913<br>Unit: 2041<br>Address: 329 Marshall Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Vomiting<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 914<br>Unit: 2041<br>Address: 314 Staunton Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness and pain<br>Mutual Aid: None<br><br>

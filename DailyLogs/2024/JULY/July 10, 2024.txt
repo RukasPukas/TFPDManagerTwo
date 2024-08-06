@@ -1,0 +1,65 @@
+Date: July 10, 2024
+
+Shift Leader: AOcepek
+
+Shift: B
+
+Call Offs:
+Tyon Kelly Day, Jamruk Injury
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+Tyon on Kelly Day, Jamruk off on Injury
+
+Lair 24 hours OT, Crafton 12 hours AM OT, Tarr 12 hours PM OT
+
+2040 returned from shop and put back in service. Hamel unit returned to rightful owner
+
+Far East garage door (2040 bay) will not open with the remote but works with button on wall. Will advise Kelly and Darren
+
+Call #947 both units and fire responded for a trauma. Air Evac transported from the scene to SLUH
+
+
+
+Crews:
+1. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+5. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-947<br>Unit: 2040<br>Address: 8824 Rosewood Hills Dr<br>Disposition: Care Transferred<br>Destination: N/A<br>Impression: Trauma<br>Mutual Aid: Other<br><br>
+
+
+2. <html>Run: 24-948<br>Unit: 2041<br>Address: 819 Edwardsville Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-949<br>Unit: 2040<br>Address: 337 Orchard Ct<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Medical Alarm Activation<br>Mutual Aid: None<br><br>

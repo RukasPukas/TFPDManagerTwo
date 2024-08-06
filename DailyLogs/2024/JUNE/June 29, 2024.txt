@@ -1,0 +1,54 @@
+Date: June 29, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+Hunsche Kelly Day
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Tyon on trade with Barr
+
+Notes: 
+Daily chores completed.
+
+Tyon on shift trade with T. Barr.
+
+A. Hunsche Kelly Day.
+
+24-901 was fire call. Smell of gas in residence. 
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: ATreat<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JPugh<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 897<br>Unit: 2041<br>Address: 101 George Bush Blvd<br>Disposition: Transported<br>Destination: Barnes Jewish Hospital<br>Impression: Gall bladder drain fell out<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 898<br>Unit: 2040<br>Address: 209 S Main St<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 899<br>Unit: 2041<br>Address: 108 Hassinger St<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 900<br>Unit: 2040<br>Address: 8651 Nealy Ln<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall<br>Mutual Aid: None<br><br>

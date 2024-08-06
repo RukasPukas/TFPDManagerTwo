@@ -1,0 +1,72 @@
+Date: August 2, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x2
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Crews:
+
+2040: Mennel, Norbury
+2041: Crafton, Tarr
+
+Daily chores completed
+
+Inventoried and updated active shooter kits
+
+Added maps of Triad schools to front pockets of all vest
+
+Both ambulances out call # 24-1075 and 24-1076 back to back calls
+
+Both ambulances out call # 24-1078 and 1079 firel call came out while 2040 was coming back from St. E's 
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: FTarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-1073<br>Unit: 2040<br>Address: 39 DOROTHY DR 117<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1074<br>Unit: 2041<br>Address: 1315 BRIDLESPUR LN<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Cardiac<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1075<br>Unit: 2040<br>Address: 222 N DEWEY ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-1076<br>Unit: 2040<br>Address: 2301 TRAMORE DR<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Diabetic Issue<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-1077<br>Unit: 2040<br>Address: 8426 STEELECREST LN<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-1078<br>Unit: 2041<br>Address: 440 MEADOW DR 4<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-1079<br>Unit: 2041<br>Address: 908 EDWARDSVILLE RD<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Syncopy<br>Mutual Aid: None<br><br>

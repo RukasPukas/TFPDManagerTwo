@@ -1,0 +1,87 @@
+
+
+Date: August 1, 2024
+
++Run Log:+
+1. <html>Run: 1068<br>Unit: 2040<br>Address: 407 Meadow Dr  Apt 4<br>Disposition: Care Transferred<br>Destination: Saint Louis University Hospital<br>Impression: Traumatic Injury<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 1069<br>Unit: 2041<br>Address: SB I-55 @ MM17<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1070<br>Unit: 2040<br>Address: 811 Lions Dr<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1071<br>Unit: 2041<br>Address: Troy Rd @ Goshen Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Heat related<br>Mutual Aid: None<br><br>
+
+
+
+Date: August 2, 2024
+
++Run Log:+
+1. <html>Run: 24-1073<br>Unit: 2040<br>Address: 39 DOROTHY DR 117<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1074<br>Unit: 2041<br>Address: 1315 BRIDLESPUR LN<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Cardiac<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1075<br>Unit: 2040<br>Address: 222 N DEWEY ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sick Case<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-1076<br>Unit: 2040<br>Address: 2301 TRAMORE DR<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Diabetic Issue<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-1077<br>Unit: 2040<br>Address: 8426 STEELECREST LN<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-1078<br>Unit: 2041<br>Address: 440 MEADOW DR 4<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-1079<br>Unit: 2041<br>Address: 908 EDWARDSVILLE RD<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Syncopy<br>Mutual Aid: None<br><br>
+
+
+
+Date: August 3, 2024
+
++Run Log:+
+1. <html>Run: 24-1080<br>Unit: 2040<br>Address: 8829 Wendell Creek Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Fire Stand by<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-1081<br>Unit: 2040<br>Address: 601 Lower Marine Road<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+
+
+
+Date: August 4, 2024
+
++Run Log:+
+1. <html>Run: 1082<br>Unit: 2040<br>Address: 642 Troy Ofallon Rd<br>Disposition: No Patient Found<br>Destination: N/A<br>Impression: MVC<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 1083<br>Unit: 2040<br>Address: 717 Sundance Tr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Behavioral<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1084<br>Unit: 2041<br>Address: 522 Lone Robin St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1085<br>Unit: 2040<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 1086<br>Unit: 2041<br>Address: 39 Dorothy Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hemorrhage<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 1087<br>Unit: 2040<br>Address: 407 Edwardsville Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Shortness of breath<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 1088<br>Unit: 2041<br>Address: 426 Parkside Dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Hemorrhage<br>Mutual Aid: None<br><br>
+
+
+
+Date: August 5, 2024
+
++Run Log:+
+1. <html>Run: 24-1089<br>Unit: 2040<br>Address: 526 CHICKADEE ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1091<br>Unit: 2041<br>Address: 123 N TIMBER TER<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1092<br>Unit: 2040<br>Address: 1027 TROY OFALLON RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: Received-MFD<br><br>
+
+4. <html>Run: 24-1089<br>Unit: 2040<br>Address: 526 CHICKADEE ST<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-1091<br>Unit: 2041<br>Address: 123 N TIMBER TER<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 24-1092<br>Unit: 2040<br>Address: 1027 TROY OFALLON RD<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: Received-MFD<br><br>
+
+
+7. <html>Run: 24-1093<br>Unit: 2041<br>Address: 5 DOUG DR<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Allergic Reaction<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 24-1094<br>Unit: 2040<br>Address: 39 DOROTHY DR 111<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+

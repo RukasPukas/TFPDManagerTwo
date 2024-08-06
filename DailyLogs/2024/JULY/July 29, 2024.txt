@@ -1,0 +1,68 @@
+Date: July 29, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+F. Tarr on time trade with A. Hunsche until 1200
+
+Notes: 
+Daily chores complete.
+
+F. Tarr on time trade with A. Hunsche from 0730-1200 ( 4.5)
+
+J. Pugh was in CPR training from 0730-1400 (6.5)
+
+C. Norbury covered OT from 0730-1200 while J. Pugh in CPR training. (4.5)
+
+F.Tarr ceovered OT from 1200-1400 while J. Pugh in CPR training. (2)
+
+24-1043 was mutual aid fire alarm
+
+Crews:
+1. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 4.5<br></html>
+
+
+2. <html>Crewmember: FTarr<br>Unit: 2040<br>Hours Worked: 6.5<br></html>
+
+
+3. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 19.5<br></html>
+
+
+4. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 17.5<br></html>
+
+
+5. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+6. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 1040<br>Unit: 2040<br>Address: 1103 Belt Line Rd<br>Disposition: Transported<br>Destination: Belleville Memorial Hospital<br>Impression: Chest Pain<br>Mutual Aid: Given-CFD<br><br>
+
+2. <html>Run: 1041<br>Unit: 2041<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 1042<br>Unit: 2041<br>Address: 501 Lakewood Dr<br>Disposition: Transported<br>Destination: Saint Louis Children's Hospital<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 1044<br>Unit: 2040<br>Address: 39 Dorothy Dr 217<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 1045<br>Unit: 2041<br>Address: 332 Riggin Rd  Apt 15<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Anxiety<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 1046<br>Unit: 2040<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

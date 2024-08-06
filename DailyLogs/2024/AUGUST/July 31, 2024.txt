@@ -1,0 +1,56 @@
+Date: July 31, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+N/A
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: GCroxton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-1059<br>Unit: 2040<br>Address: 55/70@ 270<br>Disposition: Refusal<br>Destination: N/A<br>Impression: MVA<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-1060<br>Unit: 2041<br>Address: 121 Willow Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Dizziness<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-1061<br>Unit: 2040<br>Address: 715 Cheshire Road<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Fall/Weakness<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-1062<br>Unit: 2041<br>Address: 103 Webster Street<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-1063<br>Unit: 2040<br>Address: 305 Troy Ave<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Chest Pain<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-1064<br>Unit: 2041<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Barnes Jewish Hospital<br>Impression: HTN<br>Mutual Aid: None<br><br>
+
+7. <html>Run: 24-1065<br>Unit: 2040<br>Address: 207 N Dewey Street<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dehydration<br>Mutual Aid: None<br><br>
+
+8. <html>Run: 24-1066<br>Unit: 2041<br>Address: 11 Tall Oaks<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Psych<br>Mutual Aid: None<br><br>

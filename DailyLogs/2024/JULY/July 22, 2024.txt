@@ -1,0 +1,61 @@
+Date: July 22, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+Crafton OT (0730-0730)
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0993<br>Unit: 2040<br>Address: 710 East US HWY 40<br>Disposition: Transported<br>Destination: Saint Louis Children's Hospital<br>Impression: Psych<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0994<br>Unit: 2041<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Increased Falls<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0995<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Kidney pain<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0997<br>Unit: 2040<br>Address: 601 Lower Marine Road<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0996<br>Unit: 2041<br>Address: 10 Tall Oaks<br>Disposition: Transported<br>Destination: Saint Joseph's Highland<br>Impression: Psych<br>Mutual Aid: None<br><br>

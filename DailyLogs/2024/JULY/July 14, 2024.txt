@@ -1,0 +1,66 @@
+Date: July 14, 2024
+
+Shift Leader: AHunsche
+
+Shift: C
+
+Call Offs:
+Pugh- Vacation 
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Crafton for Lair 
+
+Notes: 
+Call 24-0962 had one refusal and one transport 
+
+Both ambulances were out for call 24-0962 and 24-0963
+
+2040 responded with fire for standby for call 24-0964 
+
+call 24-0965 was a glen carbon call dispatched accidently sent active to us for 
+Daily chores completed 
+Dinner as a crew 
+
+
+
+
+
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: TBarr<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: ATreat<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0962<br>Unit: 2040<br>Address: E center street @ South main<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Traffic Accident <br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0963<br>Unit: 2041<br>Address: 341 Orchard Ct<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0964<br>Unit: 2040<br>Address: 55 MM 21 NB<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Brush Fire <br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0966<br>Unit: 2040<br>Address: Old troy @ Bollinger RD<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Intoxication <br>Mutual Aid: None<br><br>

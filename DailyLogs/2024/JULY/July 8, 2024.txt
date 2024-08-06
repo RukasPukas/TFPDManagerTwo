@@ -1,0 +1,49 @@
+Date: July 8, 2024
+
+Shift Leader: JLair
+
+Shift: C
+
+Call Offs:
+J.Pugh on Vacation Day, G. Croxton called off for his 24 hour shift  to work OT in Granite City 
+
+Students:
+N/A
+
+Mandates:
+A. Ocepek mandated for front 12 to cover Croxton's call off
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+- Daily truck checks completed.
+- 2041's narcs were tagged with a different number yesterday but noting was put on the Narc sheet to say what was used from the old tag number. 
+- A. Ocepek mandated for front 12, Vol OT for back 12. 
+- Contacted Weber, they still have not received the part they are waiting for to fix 2040. He said they told him it would be 3-5 days to get the part in after ordering and with the holiday, that may have extended it. He stated he would call them on the 9th and see where it is. I will keep you updated. 
+
+Crews:
+1. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0940<br>Unit: 2041<br>Address: 1924 SRA Bradley R Smith Dr.<br>Disposition: Transported<br>Destination: Saint Louis University Hospital<br>Impression: UTI/Confusion<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0941<br>Unit: 2040<br>Address: 2 Parklane Dr.<br>Disposition: Transported<br>Destination: Anderson<br>Impression: SOB<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0942<br>Unit: 2041<br>Address: 31 Ellington Dr.<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: DOA<br>Mutual Aid: None<br><br>

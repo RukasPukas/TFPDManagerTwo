@@ -1,0 +1,60 @@
+Date: July 6, 2024
+
+Shift Leader: KMennel
+
+Shift: A
+
+Call Offs:
+Tarr - Vacation  Crafton - Kelly Day
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+24 Hour Crews
+
+2041: Mennel, Norbury
+2042: Tyon (Picked Up), Hunsche (Picked Up)
+
+Daily chores completed
+
+Bleach and hot water put down all drains in bays and bathrooms
+
+Dinner as crew
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: CNorbury<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0298<br>Unit: 2041<br>Address: 736 SUNDANCE TRL
+Troy<br>Disposition: Transported<br>Destination: Saint Louis University Hospital<br>Impression: CVA<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0929<br>Unit: 2040<br>Address: 120 W MARKET ST<br>Disposition: Transported<br>Destination: Saint Louis University Hospital<br>Impression: Dizziness<br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0930<br>Unit: 2041<br>Address: 204 LIBERTY SQUARE DR<br>Disposition: Cancelled Prior To Scene<br>Destination: N/A<br>Impression: Fire Alarm<br>Mutual Aid: None<br><br>
+
+4. <html>Run: 24-0931<br>Unit: 2041<br>Address: 404 BARGRAVES BLVD<br>Disposition: Lift Assist - Not Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>
+
+5. <html>Run: 24-0932<br>Unit: 2040<br>Address: 8651 NEALY LN<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Anxiety<br>Mutual Aid: None<br><br>

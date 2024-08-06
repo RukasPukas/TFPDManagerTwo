@@ -1,0 +1,51 @@
+Date: July 4, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+N/A
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+K. Mennel -> K.McClinton
+
+Notes: 
+N/A
+
+Crews:
+1. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+3. <html>Crewmember: KMennel<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+4. <html>Crewmember: ATreat<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 24-0922<br>Unit: 2040<br>Address: 439 Meadow Drive<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Box on fire<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 24-0923<br>Unit: 2041<br>Address: 199 South Main Street<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Station move <br>Mutual Aid: StationMove-GCFD<br><br>
+
+3. <html>Run: 24-0924<br>Unit: 2041<br>Address: 1000 N Keebler Ave<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Structure fire<br>Mutual Aid: StationMove-GCFD<br><br>

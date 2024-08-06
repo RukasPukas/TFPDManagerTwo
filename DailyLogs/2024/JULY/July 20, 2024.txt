@@ -1,0 +1,75 @@
+Date: July 20, 2024
+
+Shift Leader: JPugh
+
+Shift: C
+
+Call Offs:
+A. Hunsche Kelly Day
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+Daily chores completed.
+
+Made appearance at TPD kickball tournament. 
+
+24-0985 was mutual aid fire call to Maryville.
+
+Crews:
+1. <html>Crewmember: JPugh<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+2. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+3. <html>Crewmember: KCrafton<br>Unit: 2040<br>Hours Worked: 12<br></html>
+
+
+
+4. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+5. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+Run Log: 
+1. <html>Run: 982<br>Unit: 2040<br>Address: 2001 Formosa Rd<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Choking<br>Mutual Aid: None<br><br>
+
+
+2. <html>Run: 983<br>Unit: 2041<br>Address: 409 Collinsville Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Leg Injury<br>Mutual Aid: None<br><br>
+
+
+3. <html>Run: 984<br>Unit: 2040<br>Address: 910 Edwardsville Rd<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Difficulty Breathing<br>Mutual Aid: None<br><br>
+
+
+4. <html>Run: 986<br>Unit: 2041<br>Address: 624 E Center St<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Possible brush fire<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 987<br>Unit: 2040<br>Address: 114 James Dr<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Weakness<br>Mutual Aid: None<br><br>
+
+
+6. <html>Run: 988<br>Unit: 2041<br>Address: 408 Meadow Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Vomiting<br>Mutual Aid: None<br><br>
+
+
+7. <html>Run: 989<br>Unit: 2040<br>Address: 304 Hazel St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Intoxication<br>Mutual Aid: None<br><br>
+
+
+8. <html>Run: 990<br>Unit: 2041<br>Address: 601 Lower Marine Rd<br>Disposition: Lift Assist - Billed<br>Destination: N/A<br>Impression: Lift Assist<br>Mutual Aid: None<br><br>

@@ -1,0 +1,51 @@
+Date: July 13, 2024
+
+Shift Leader: AOcepek
+
+Shift: B
+
+Call Offs:
+Jamruk Injury
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+Hunsche for Tyon
+
+Notes: 
+Hunsche on trade for Tyon
+
+Crafton 12 hrs AM OT and Tyon 12 hrs PM OT for Jamruk
+
+
+
+Crews:
+1. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+5. <html>Crewmember: LTyon<br>Unit: 2041<br>Hours Worked: 12<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-960<br>Unit: 2040<br>Address: 8576 Country Ln<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Fever<br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-961<br>Unit: 2041<br>Address: 490 Lower Marine Rd<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: CO Alarm<br>Mutual Aid: None<br><br>

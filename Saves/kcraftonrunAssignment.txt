@@ -1,0 +1,14 @@
+<html>Run: 24-0915<br>Unit: 2041<br>Address: 8160 Maple Grove<br>Disposition: Transported<br>Destination: Memorial Hospital East<br>Impression: Back Pain<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 24-0916<br>Unit: 2040<br>Address: 2129 Suncrest<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: CO Alarm<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 24-0917<br>Unit: 2040<br>Address: 229 Liberty Square Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Assist Invalid<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 24-0918<br>Unit: 2041<br>Address: 116 E Market<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Foot Injurie<br>Mutual Aid: None<br><br>
+
+*
+<html>Run: 24-0919<br>Unit: 2040<br>Address: 225 E Charter St<br>Disposition: Refusal<br>Destination: N/A<br>Impression: foot pain<br>Mutual Aid: None<br><br>
+*

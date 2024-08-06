@@ -1,0 +1,55 @@
+Date: July 11, 2024
+
+Shift Leader: AHunsche
+
+Shift: C
+
+Call Offs:
+Pugh - Vacation 
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+N/A
+
+Notes: 
+While doing truck checks it was noticed that 2040 was missing a fender on the passenger side
+Both 2040 & 2041 attended water day at the troy park with 2065 
+Troy garage came and fixed garage door 
+
+T barr and A hunsche attended association meeting 
+
+
+
+
+
+
+Crews:
+1. <html>Crewmember: AHunsche<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+2. <html>Crewmember: ATreat<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+3. <html>Crewmember: TBarr<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+4. <html>Crewmember: JLair<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+Run Log: 
+1. <html>Run: 24-0950<br>Unit: 2040<br>Address: 7342 State 162 Lobby<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dizzy <br>Mutual Aid: None<br><br>
+
+2. <html>Run: 24-0951<br>Unit: 2041<br>Address: 404 Diana Street<br>Disposition: Refusal<br>Destination: N/A<br>Impression: No complaints <br>Mutual Aid: None<br><br>
+
+3. <html>Run: 24-0952<br>Unit: 2040<br>Address: 1665 Riedle dr<br>Disposition: Transported<br>Destination: Anderson<br>Impression: AMS <br>Mutual Aid: None<br><br>

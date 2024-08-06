@@ -1,0 +1,8 @@
+<html>Run: 24-0962<br>Unit: 2040<br>Address: E center street @ South main<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Traffic Accident <br>Mutual Aid: None<br><br>
+*
+<html>Run: 24-0963<br>Unit: 2041<br>Address: 341 Orchard Ct<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+*
+<html>Run: 24-0964<br>Unit: 2040<br>Address: 55 MM 21 NB<br>Disposition: Public Standby<br>Destination: N/A<br>Impression: Brush Fire <br>Mutual Aid: None<br><br>
+*
+<html>Run: 24-0966<br>Unit: 2040<br>Address: Old troy @ Bollinger RD<br>Disposition: Refusal<br>Destination: N/A<br>Impression: Intoxication <br>Mutual Aid: None<br><br>
+*

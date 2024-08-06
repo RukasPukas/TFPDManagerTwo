@@ -1,0 +1,73 @@
+Date: June 27, 2024
+
+Shift Leader: KCrafton
+
+Shift: A
+
+Call Offs:
+Mennel- Vacation
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x0
+
+Time Trades:
+Tyon for Tarr
+
+Notes: 
+2041 was repaired by Stryker and is back to full capacity.
+
+Daily chores done
+
+Weed pulling party was a success
+
+Attended training (ladder ops)
+
+Dinner as a crew
+
+Crews:
+1. <html>Crewmember: KCrafton<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: MVonnahmen<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: CNorbury<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0888<br>Unit: 2040<br>Address: 1924 SRA Bradley R Smith Dr (Aspin Creek)<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Shortness of Breath<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0889<br>Unit: 2041<br>Address: 300 Jarvis Ct<br>Disposition: Transported<br>Destination: Saint Elizabeth's<br>Impression: Fall<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0890<br>Unit: 2040<br>Address: 311 Park St<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby (canceled on scene)<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-0891<br>Unit: 2040<br>Address: SRA Bradley Smith Dr @ Dorothy Dr<br>Disposition: Refusal<br>Destination: N/A<br>Impression: altered mental status<br>Mutual Aid: None<br><br>
+
+
+5. <html>Run: 24-0892<br>Unit: 2041<br>Address: 130 S Clinton St (CFD Station 1)<br>Disposition: Agency Assist<br>Destination: N/A<br>Impression: Fire Standby/ Station Move Up<br>Mutual Aid: Given-CFD<br><br>

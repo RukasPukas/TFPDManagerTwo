@@ -1,0 +1,70 @@
+Date: June 22, 2024
+
+Shift Leader: LTyon
+
+Shift: B
+
+Call Offs:
+C.Jamruk (Injury)
+
+Students:
+N/A
+
+Mandates:
+N/A
+
+Ambulances On:
+Both Full 24
+
+Both Ambulances Out:
+x1
+
+Time Trades:
+N/A
+
+Notes: 
+K. Mennel (24 Hours OT)
+
+
+
+Crews:
+1. <html>Crewmember: KMennel<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+2. <html>Crewmember: AOcepek<br>Unit: 2041<br>Hours Worked: 24<br></html>
+
+
+
+
+3. <html>Crewmember: KMcClinton<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+4. <html>Crewmember: LTyon<br>Unit: 2040<br>Hours Worked: 24<br></html>
+
+
+
+
+Run Log: 
+1. <html>Run: 24-0865<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Seizure<br>Mutual Aid: None<br><br>
+
+
+
+2. <html>Run: 24-0866<br>Unit: 2041<br>Address: Troy Ofallon @ East Mill Creek Road<br>Disposition: Cancelled On Scene<br>Destination: N/A<br>Impression: MVA Unfounded<br>Mutual Aid: None<br><br>
+
+
+
+3. <html>Run: 24-0867<br>Unit: 2041<br>Address: 1482 Guilford Place<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Sepsis<br>Mutual Aid: None<br><br>
+
+
+
+4. <html>Run: 24-0868<br>Unit: 2040<br>Address: 229 Michael Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Anxiety<br>Mutual Aid: None<br><br>
+
+
+
+5. <html>Run: 24-0869<br>Unit: 2041<br>Address: 30 Ellington Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: Dyspnea<br>Mutual Aid: None<br><br>
+
+6. <html>Run: 24-0871<br>Unit: 2040<br>Address: 39 Dorothy Drive<br>Disposition: Transported<br>Destination: Anderson<br>Impression: ALOC<br>Mutual Aid: None<br><br>

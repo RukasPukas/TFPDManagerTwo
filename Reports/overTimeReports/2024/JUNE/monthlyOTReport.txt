@@ -10,3 +10,27 @@ Kmennel: Start:0730 End:0730
 
 June 19, 2024
 AHunsche: Start:0730 End:0730
+
+June 22, 2024
+KMennel: Start:0730 End:0730
+
+June 24, 2024
+AHunsche: Start:0730 End:0830
+
+June 24, 2024
+AOcepek: Start:0730 End:0730
+
+June 24, 2024
+KMcClinton: Start:0730 End:0830
+
+June 24, 2024
+FTarr: Start:0730 End:0830
+
+June 25, 2024
+Ltyon: Start:0730 End:0730
+
+June 28, 2024
+Ltyon: Start:0730 End:0730
+
+June 26, 2024
+JLair: Start:0730 End:1930
