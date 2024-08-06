@@ -570,6 +570,7 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
 							
 							 String truckAssignmentLine;
 							 StringBuilder entryBuilder = new StringBuilder();
+							 truckListModel.clear();
 							 
 							    while ((truckAssignmentLine = truckAssignmentReader.readLine()) != null) {
 							        if (truckAssignmentLine.equals("*"))
@@ -608,6 +609,7 @@ public class DailyLog implements ActionListener, PropertyChangeListener{
 							
 							 String runAssignmentLine;
 							 StringBuilder entryBuilder = new StringBuilder();
+							 runsListModel.clear();
 							 
 							    while ((runAssignmentLine = runAssignmentReader.readLine()) != null) {
 							        if (runAssignmentLine.equals("*"))
